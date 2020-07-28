@@ -1,0 +1,61 @@
+p
+{
+	font-family: times;
+	text-align: center;
+}
+
+p, figcaption
+{
+	border:2px black solid;
+	border-radius: 10px;
+}
+
+h1, h2, p, figure, figcaption
+{
+	text-align: center;
+}
+
+h1, h2
+{
+	color: red;
+	text-decoration: underline;
+}
+
+h1, h2
+{
+	border: 2px red solid;
+	box-shadow: 6px 6px 6px gray;
+}
+
+body
+{
+	background-image: url("../image/ciel.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	font-weight: bold;
+	font-size: 20px
+
+}
+
+.page
+{
+	text-align: right;
+}
+
+a
+{
+	text-decoration: none;
+	color: navy;
+}
+
+a:hover
+{
+	text-decoration: underline;
+	color:navy;
+}
+
+audio
+{
+	max-width: 900px;
+	max-height: 50px;
+}

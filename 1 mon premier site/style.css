@@ -1,0 +1,83 @@
+p
+{
+	font-family: times;
+	text-align: center;
+}
+
+p
+{
+	border:2px black solid;
+	border-radius: 10px;
+}
+
+
+h1, h2, h3, h4, ol
+{
+	text-align: center;
+	
+}
+
+h1, h2, h3, h4
+{
+	text-decoration: underline;
+	color: red
+
+}
+
+h1, h2, h3, h4
+{
+	border: 2px red solid;
+	box-shadow: 6px 6px 6px gray;
+}
+
+
+body
+{
+	background: url("image/ciel.jpg") fixed no-repeat;
+	font-weight: bold;
+	font-size:20px;
+} 
+
+.liste
+{
+	border: 2px black solid;
+}
+
+.liste
+{
+	box-shadow: 6px 6px 6px black;
+}
+
+a
+{
+	text-decoration: none;
+	color: navy;
+}
+
+a:hover
+{
+	text-decoration: underline;
+	color:navy;
+}
+
+.matrix
+{
+	width: 100%;
+}
+
+.logo
+{
+	width: 100%;
+}
+
+.logo
+{
+	max-width: 900px;
+	max-height: 506px; 
+}
+
+audio
+{
+	max-width: 900px;
+	max-height: 50px;
+}
